@@ -1,0 +1,14 @@
+{
+  "name": "vue-time-tracker",
+  "version": "0.0.1",
+  "description": "A Vue.js and Node time tracking application to go along with the tutorial series at Scotch.io",
+  "main": "index.js",
+  "author": "Ryan Chenkie",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "mongoose": "^4.3.4"
+  }
+}
